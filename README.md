@@ -1,6 +1,6 @@
 # Jee-Main
 
-Some code for JEE Students in the format of JEE Main{+4/-1}
+A terminal-based program in C for JEE Students in the format of JEE Main{+4/-1}
 
 If you are sure to attempt the question paper: Yes
 
